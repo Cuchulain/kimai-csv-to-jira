@@ -11,7 +11,7 @@ This Python script allows you to import worklogs from a CSV file exported from K
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.7+
 - Jira API access with a valid API token
 - Python packages: `requests`, `python-dotenv`, `pytz`
 
